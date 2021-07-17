@@ -15,6 +15,7 @@
 		FF575F2326A32943002DD0C9 /* FructusSwiftUIUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF575F2226A32943002DD0C9 /* FructusSwiftUIUITests.swift */; };
 		FF575F3C26A34254002DD0C9 /* FruitCardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF575F3B26A34254002DD0C9 /* FruitCardView.swift */; };
 		FF575F4426A34D2E002DD0C9 /* StartButtonView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF575F4326A34D2E002DD0C9 /* StartButtonView.swift */; };
+		FF575F4926A355DC002DD0C9 /* OnboardingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF575F4826A355DC002DD0C9 /* OnboardingView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		FF575F2426A32943002DD0C9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		FF575F3B26A34254002DD0C9 /* FruitCardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FruitCardView.swift; sourceTree = "<group>"; };
 		FF575F4326A34D2E002DD0C9 /* StartButtonView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StartButtonView.swift; sourceTree = "<group>"; };
+		FF575F4826A355DC002DD0C9 /* OnboardingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -139,6 +141,7 @@
 			children = (
 				FF575F0526A32942002DD0C9 /* FructusSwiftUIApp.swift */,
 				FF575F0726A32942002DD0C9 /* ContentView.swift */,
+				FF575F4826A355DC002DD0C9 /* OnboardingView.swift */,
 			);
 			path = App;
 			sourceTree = "<group>";
@@ -284,6 +287,7 @@
 				FF575F3C26A34254002DD0C9 /* FruitCardView.swift in Sources */,
 				FF575F4426A34D2E002DD0C9 /* StartButtonView.swift in Sources */,
 				FF575F0826A32942002DD0C9 /* ContentView.swift in Sources */,
+				FF575F4926A355DC002DD0C9 /* OnboardingView.swift in Sources */,
 				FF575F0626A32942002DD0C9 /* FructusSwiftUIApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
