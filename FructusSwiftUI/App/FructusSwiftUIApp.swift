@@ -9,7 +9,8 @@ import SwiftUI
 
 @main
 struct FructusSwiftUIApp: App {
-    @AppStorage("isBoarding") var isOnBoarding: Bool = true
+    
+    @AppStorage("isOnBoarding") var isOnBoarding: Bool = true
     
     var body: some Scene {
         WindowGroup {
