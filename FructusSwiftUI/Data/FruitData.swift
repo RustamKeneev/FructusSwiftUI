@@ -325,7 +325,7 @@ let fruitsData: [Fruit] = [
         title: "Cherry",
         headline: "Sweet, bell-shaped fruits that have been enjoyed since ancient times. They can be eaten crisp or soft.",
         image: "cherry",
-        gradientColors: [Color("ColorCherryLight"), Color("ColorCherryDark")],
+        gradientsColors: [Color("ColorCherryLight"), Color("ColorCherryDark")],
         description: """
           A cherry is the fruit of many plants of the genus Prunus, and is a fleshy drupe (stone fruit). Commercial cherries are obtained from cultivars of several species, such as the sweet Prunus avium and the sour Prunus cerasus.
 
