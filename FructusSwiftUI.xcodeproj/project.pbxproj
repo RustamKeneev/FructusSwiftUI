@@ -95,8 +95,7 @@
 		FF575F0426A32942002DD0C9 /* FructusSwiftUI */ = {
 			isa = PBXGroup;
 			children = (
-				FF575F0526A32942002DD0C9 /* FructusSwiftUIApp.swift */,
-				FF575F0726A32942002DD0C9 /* ContentView.swift */,
+				FF575F3626A34193002DD0C9 /* App */,
 				FF575F0926A32942002DD0C9 /* Assets.xcassets */,
 				FF575F0E26A32942002DD0C9 /* Info.plist */,
 				FF575F0B26A32942002DD0C9 /* Preview Content */,
@@ -128,6 +127,15 @@
 				FF575F2426A32943002DD0C9 /* Info.plist */,
 			);
 			path = FructusSwiftUIUITests;
+			sourceTree = "<group>";
+		};
+		FF575F3626A34193002DD0C9 /* App */ = {
+			isa = PBXGroup;
+			children = (
+				FF575F0526A32942002DD0C9 /* FructusSwiftUIApp.swift */,
+				FF575F0726A32942002DD0C9 /* ContentView.swift */,
+			);
+			path = App;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
