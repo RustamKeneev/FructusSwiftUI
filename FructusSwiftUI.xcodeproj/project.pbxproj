@@ -14,6 +14,7 @@
 		FF575F1826A32943002DD0C9 /* FructusSwiftUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF575F1726A32943002DD0C9 /* FructusSwiftUITests.swift */; };
 		FF575F2326A32943002DD0C9 /* FructusSwiftUIUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF575F2226A32943002DD0C9 /* FructusSwiftUIUITests.swift */; };
 		FF575F3C26A34254002DD0C9 /* FruitCardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF575F3B26A34254002DD0C9 /* FruitCardView.swift */; };
+		FF575F4426A34D2E002DD0C9 /* StartButtonView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF575F4326A34D2E002DD0C9 /* StartButtonView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		FF575F2226A32943002DD0C9 /* FructusSwiftUIUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FructusSwiftUIUITests.swift; sourceTree = "<group>"; };
 		FF575F2426A32943002DD0C9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		FF575F3B26A34254002DD0C9 /* FruitCardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FruitCardView.swift; sourceTree = "<group>"; };
+		FF575F4326A34D2E002DD0C9 /* StartButtonView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StartButtonView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -145,6 +147,7 @@
 			isa = PBXGroup;
 			children = (
 				FF575F3B26A34254002DD0C9 /* FruitCardView.swift */,
+				FF575F4326A34D2E002DD0C9 /* StartButtonView.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -279,6 +282,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				FF575F3C26A34254002DD0C9 /* FruitCardView.swift in Sources */,
+				FF575F4426A34D2E002DD0C9 /* StartButtonView.swift in Sources */,
 				FF575F0826A32942002DD0C9 /* ContentView.swift in Sources */,
 				FF575F0626A32942002DD0C9 /* FructusSwiftUIApp.swift in Sources */,
 			);
