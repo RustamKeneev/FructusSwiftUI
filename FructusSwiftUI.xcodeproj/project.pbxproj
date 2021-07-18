@@ -23,6 +23,7 @@
 		FF575F7026A4360E002DD0C9 /* FruitHeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF575F6F26A4360E002DD0C9 /* FruitHeaderView.swift */; };
 		FF575F7526A43CE5002DD0C9 /* SourceLinkView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF575F7426A43CE5002DD0C9 /* SourceLinkView.swift */; };
 		FF575F8026A44149002DD0C9 /* FruitNutrientsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF575F7F26A44149002DD0C9 /* FruitNutrientsView.swift */; };
+		FF575F8526A45AC1002DD0C9 /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF575F8426A45AC1002DD0C9 /* SettingsView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -65,6 +66,7 @@
 		FF575F6F26A4360E002DD0C9 /* FruitHeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FruitHeaderView.swift; sourceTree = "<group>"; };
 		FF575F7426A43CE5002DD0C9 /* SourceLinkView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SourceLinkView.swift; sourceTree = "<group>"; };
 		FF575F7F26A44149002DD0C9 /* FruitNutrientsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FruitNutrientsView.swift; sourceTree = "<group>"; };
+		FF575F8426A45AC1002DD0C9 /* SettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -159,6 +161,7 @@
 				FF575F0726A32942002DD0C9 /* ContentView.swift */,
 				FF575F4826A355DC002DD0C9 /* OnboardingView.swift */,
 				FF575F6726A4209D002DD0C9 /* FruitDetailView.swift */,
+				FF575F8426A45AC1002DD0C9 /* SettingsView.swift */,
 			);
 			path = App;
 			sourceTree = "<group>";
@@ -333,6 +336,7 @@
 				FF575F4926A355DC002DD0C9 /* OnboardingView.swift in Sources */,
 				FF575F4F26A35945002DD0C9 /* FruitModel.swift in Sources */,
 				FF575F0626A32942002DD0C9 /* FructusSwiftUIApp.swift in Sources */,
+				FF575F8526A45AC1002DD0C9 /* SettingsView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
