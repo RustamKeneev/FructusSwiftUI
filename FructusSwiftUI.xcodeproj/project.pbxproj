@@ -19,6 +19,7 @@
 		FF575F4F26A35945002DD0C9 /* FruitModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF575F4E26A35945002DD0C9 /* FruitModel.swift */; };
 		FF575F5526A35AF6002DD0C9 /* FruitData.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF575F5426A35AF6002DD0C9 /* FruitData.swift */; };
 		FF575F6326A409F9002DD0C9 /* FruitRowView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF575F6226A409F9002DD0C9 /* FruitRowView.swift */; };
+		FF575F6826A4209D002DD0C9 /* FruitDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF575F6726A4209D002DD0C9 /* FruitDetailView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -57,6 +58,7 @@
 		FF575F4E26A35945002DD0C9 /* FruitModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FruitModel.swift; sourceTree = "<group>"; };
 		FF575F5426A35AF6002DD0C9 /* FruitData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FruitData.swift; sourceTree = "<group>"; };
 		FF575F6226A409F9002DD0C9 /* FruitRowView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FruitRowView.swift; sourceTree = "<group>"; };
+		FF575F6726A4209D002DD0C9 /* FruitDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FruitDetailView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -150,6 +152,7 @@
 				FF575F0526A32942002DD0C9 /* FructusSwiftUIApp.swift */,
 				FF575F0726A32942002DD0C9 /* ContentView.swift */,
 				FF575F4826A355DC002DD0C9 /* OnboardingView.swift */,
+				FF575F6726A4209D002DD0C9 /* FruitDetailView.swift */,
 			);
 			path = App;
 			sourceTree = "<group>";
@@ -313,6 +316,7 @@
 				FF575F3C26A34254002DD0C9 /* FruitCardView.swift in Sources */,
 				FF575F6326A409F9002DD0C9 /* FruitRowView.swift in Sources */,
 				FF575F4426A34D2E002DD0C9 /* StartButtonView.swift in Sources */,
+				FF575F6826A4209D002DD0C9 /* FruitDetailView.swift in Sources */,
 				FF575F0826A32942002DD0C9 /* ContentView.swift in Sources */,
 				FF575F4926A355DC002DD0C9 /* OnboardingView.swift in Sources */,
 				FF575F4F26A35945002DD0C9 /* FruitModel.swift in Sources */,
