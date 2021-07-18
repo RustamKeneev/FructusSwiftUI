@@ -25,6 +25,7 @@
 		FF575F8026A44149002DD0C9 /* FruitNutrientsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF575F7F26A44149002DD0C9 /* FruitNutrientsView.swift */; };
 		FF575F8526A45AC1002DD0C9 /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF575F8426A45AC1002DD0C9 /* SettingsView.swift */; };
 		FF575F8A26A46685002DD0C9 /* SettingsLabelView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF575F8926A46685002DD0C9 /* SettingsLabelView.swift */; };
+		FF575F9726A47A02002DD0C9 /* SettingsRowView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF575F9626A47A02002DD0C9 /* SettingsRowView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -69,6 +70,7 @@
 		FF575F7F26A44149002DD0C9 /* FruitNutrientsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FruitNutrientsView.swift; sourceTree = "<group>"; };
 		FF575F8426A45AC1002DD0C9 /* SettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsView.swift; sourceTree = "<group>"; };
 		FF575F8926A46685002DD0C9 /* SettingsLabelView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsLabelView.swift; sourceTree = "<group>"; };
+		FF575F9626A47A02002DD0C9 /* SettingsRowView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = SettingsRowView.swift; path = FructusSwiftUI/App/SettingsRowView.swift; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -171,6 +173,7 @@
 		FF575F3A26A341E1002DD0C9 /* View */ = {
 			isa = PBXGroup;
 			children = (
+				FF575F9626A47A02002DD0C9 /* SettingsRowView.swift */,
 				FF575F3B26A34254002DD0C9 /* FruitCardView.swift */,
 				FF575F4326A34D2E002DD0C9 /* StartButtonView.swift */,
 				FF575F6226A409F9002DD0C9 /* FruitRowView.swift */,
@@ -329,6 +332,7 @@
 			files = (
 				FF575F5526A35AF6002DD0C9 /* FruitData.swift in Sources */,
 				FF575F3C26A34254002DD0C9 /* FruitCardView.swift in Sources */,
+				FF575F9726A47A02002DD0C9 /* SettingsRowView.swift in Sources */,
 				FF575F6326A409F9002DD0C9 /* FruitRowView.swift in Sources */,
 				FF575F4426A34D2E002DD0C9 /* StartButtonView.swift in Sources */,
 				FF575F8026A44149002DD0C9 /* FruitNutrientsView.swift in Sources */,
