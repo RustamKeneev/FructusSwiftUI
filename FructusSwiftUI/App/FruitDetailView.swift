@@ -21,6 +21,9 @@ struct FruitDetailView: View {
                     VStack (alignment: .leading, spacing: 20) {
                         // TITLE
                         Text(fruit.title)
+                            .font(.largeTitle)
+                            .fontWeight(.heavy)
+                            .foregroundColor(fruit.gradientsColors[1])
                         
                         // HEADLINE
                         
