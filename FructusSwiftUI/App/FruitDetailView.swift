@@ -17,6 +17,7 @@ struct FruitDetailView: View {
         NavigationView {
             ScrollView(.vertical, showsIndicators: false){
                 VStack(alignment: .center, spacing: 20){
+    
                     // HEADER
                     VStack (alignment: .leading, spacing: 20) {
                         
@@ -37,13 +38,15 @@ struct FruitDetailView: View {
                         Text("Learn more abute \(fruit.title)".uppercased())
                             .fontWeight(.bold)
                             .foregroundColor(fruit.gradientsColors[1])
-                        // DESCRIPTION
                         
+                        // DESCRIPTION
+                        Text(fruit.description)
+                            .multilineTextAlignment(.leading)
                         // LINK
                         
                     } //: VSTACK
-                    .padding(.horizontal,20)
-                    .frame(minWidth: 640, alignment: .center)
+                    .padding(.horizontal, 20)
+                    .frame(maxWidth: 640, alignment: .center)
                 } //: VSTACK
             } //: SCROLVIEW
         } //: NAVIGATION
